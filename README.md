@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yehia Emad Yehia
 ========================================================================================================================================
 
-Dev.Mobile & Full-Stack
+Back-End : Specialized in php (vue js and laravel)
 -----------------------
 
 I have 10 years of comprehensive experience in software development, including 2 years of application development and 8 years of web development. Over the years, I have worked across multiple platforms, building scalable, user-friendly applications and dynamic websites tailored to client needs. My expertise spans front-end and back-end technologies, ensuring efficient, responsive, and robust solutions.
